@@ -1,4 +1,3 @@
 # Homework-Assignment-2
 
-<p style="color:red;""font-family:Times New Roman">ab</p>
-
+<p style="font-family:Times New Roman; color:Blue; font-size: 20px;">ab</p>
