@@ -1,7 +1,4 @@
 # Homework-Assignment-2
-
-<p style="font-family:Times New Roman; color:Red; font-size: 20px;">ab</p> 
-<p style="font-family:Arial; color:Blue; font-size: 20px">12</p>
-<e> <p style="font-family:Impact; color:Green; font-size: 20px">34</p> <e>
-  
-
+<span style="font-family:Times New Roman; color:red; font-size:14pt;">ab </span>
+<span style="font-family:Arial; color:blue; font-size: 14pt;">12 </span>
+<span style="font-family: Impact; color: green; font-size: 14pt; font-style: em;">34 </span>
